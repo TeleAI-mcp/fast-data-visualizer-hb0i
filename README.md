@@ -1,2 +1,3 @@
-# fast-data-visualizer-hb0i
-Automated issue comment bot repository
+# Fast Data Visualizer Hb0I
+
+Automated issue comment bot repository.
